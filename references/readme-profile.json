@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 198｜Limited-palette Floating Fashion Collage: recasts a photo's subject as a surreal conceptual fashion illustration, stressing outline, garments, pose and silhouette (non-human subjects become a fashion-like main figure), with one or several figures floating, hanging or pulled by thin lines instead of standing on real ground. Figures, clothes, lines and textures are layered like digital collage material, with halftone dots, screen-print grain and slightly worn print texture. A limited palette of two to four colours from the photo (grey-blue, off-white, charcoal, mist) carries a small accent of orange, red, coral or warm yellow, with a few magazine-style notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-198 or asks for surreal floating fashion illustration, halftone collage or limited-colour editorial collage from a photo.",
+  "short_description": "限色失重时装拼贴：把照片主体画成漂浮失重的概念时装插画，数字拼贴加半调网点，限定色",
+  "zh-CN": {
+    "name": "限色失重时装拼贴",
+    "tagline": "把照片主体画成漂浮失重的概念时装插画，用拼贴、网点和限定色印出来。",
+    "look": "主体被画成概念时装插画：轮廓、服装、姿态和剪影被强调，身体可以拉长、压缩或变形；不是人物的主体也会变成有时装感的主形象。一个或几个形象漂浮、悬吊或被细线牵引，高低错落地散在画面里，不站在真实地面上。人物、服饰、线条和纹理像分层材料拼在一起，背景和局部有半调网点、丝网印刷颗粒和轻微掉墨的旧印刷肌理。颜色限定在 2 到 4 种，以灰蓝、米白、黑灰、雾色打底，加一点橙、红、珊瑚或暖黄做焦点，配少量杂志感的小标题、注释或编号。",
+    "traits": [
+      "失重悬浮",
+      "概念时装插画",
+      "数字拼贴",
+      "半调网点",
+      "限定色"
+    ],
+    "good": [
+      "服装和姿态鲜明的人物照：街拍、走秀、舞者、穿长大衣的人",
+      "几个人之间有关系的照片：一群朋友、双人合影、同行的人",
+      "剪影有个性的物件，可以变成时装感的主形象：一把伞、一只鸟、一顶帽子"
+    ],
+    "poor": [
+      "需要写实还原样貌的照片：证件照、产品图",
+      "想要满版场景或真实空间透视的需求",
+      "想要明亮清新、没有做旧印刷感或颜色丰富的画面"
+    ]
+  },
+  "en": {
+    "name": "Limited-palette Floating Fashion Collage",
+    "tagline": "Draws a photo's subject as a weightless fashion illustration in collage, halftone and a few colours.",
+    "look": "The subject becomes a conceptual fashion illustration: outline, clothing, pose and silhouette are stressed, and bodies can be stretched, compressed or reshaped; a subject that is not a person is also turned into a main figure with a fashion-editorial feel. One or several figures float, hang or are pulled by thin lines, scattered at different heights across the picture instead of standing on real ground. Figures, garments, lines and textures are put together like layered material, with halftone dots, screen-print grain and slightly worn, patchy old-print texture in the background and details. The palette is limited to two to four colours, grey-blue, off-white, charcoal and mist as the base with a little orange, red, coral or warm yellow as the focus, plus a few small magazine-style titles, notes or numbers.",
+    "traits": [
+      "Weightless floating",
+      "Conceptual fashion",
+      "Digital collage",
+      "Halftone dots",
+      "Limited palette"
+    ],
+    "good": [
+      "Photos of people with strong clothing and pose: street style, runway, dancers, someone in a long coat",
+      "Photos showing a relationship between a few people: a group of friends, a pair, people walking together",
+      "Objects with a characterful silhouette that can become a fashion-like main figure: an umbrella, a bird, a hat"
+    ],
+    "poor": [
+      "Photos that need a faithful likeness: ID photos, product shots",
+      "Requests for a full-frame scene or realistic spatial perspective",
+      "Requests for a bright, fresh look without worn print texture, or for many colours"
+    ]
+  },
+  "ja": {
+    "name": "限定色の浮遊ファッションコラージュ",
+    "tagline": "写真の主役を宙に浮かぶコンセプチュアルなファッションイラストにし、コラージュと網点、限定色で刷ります。",
+    "look": "主役はコンセプチュアルなファッションイラストになります。輪郭、服、ポーズ、シルエットが強調され、体は引き伸ばしたり、縮めたり、変形したりできます。人物でない主役も、ファッション誌らしい主役像に置き換えます。一人あるいは数人の像が浮かび、吊り下がり、細い糸に引かれて、高さを変えながら画面に散らばり、現実の地面には立ちません。人物、服、線、テクスチャーは層になった素材のように組み合わされ、背景や部分には網点、シルクスクリーンの粒子、インクのかすれた古い印刷の質感があります。色は二から四色に限り、灰青、生成り、黒灰、霧のような色を地に、橙、赤、コーラル、暖かな黄を少しだけ焦点に使い、雑誌風の小さな見出し、注記、番号を添えます。",
+    "traits": [
+      "無重力の浮遊",
+      "コンセプトファッション",
+      "デジタルコラージュ",
+      "網点",
+      "限定色"
+    ],
+    "good": [
+      "服やポーズが印象的な人物写真：ストリートスナップ、ランウェイ、ダンサー、ロングコートの人",
+      "数人の関係が見える写真：友人のグループ、二人の写真、連れ立って歩く人",
+      "シルエットに個性があり、ファッション的な主役にできる物：傘、鳥、帽子"
+    ],
+    "poor": [
+      "姿をそのまま再現する必要がある写真：証明写真、商品写真",
+      "画面いっぱいの場面や現実的な空間の遠近を求める場合",
+      "明るく爽やかで古い印刷感のない画面、または色数の多い画面を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "제한 팔레트 부유 패션 콜라주",
+    "tagline": "사진의 주인공을 무중력으로 떠다니는 개념 패션 일러스트로 그려 콜라주, 망점, 제한된 색으로 찍어 냅니다.",
+    "look": "주인공은 개념 패션 일러스트가 됩니다. 윤곽, 옷, 자세, 실루엣이 강조되고 몸은 늘이거나 줄이거나 변형할 수 있으며, 사람이 아닌 주인공도 패션 화보 느낌의 주인공 형상으로 바뀝니다. 하나 또는 여러 형상이 떠다니거나 매달리거나 가는 줄에 이끌려 높낮이를 달리하며 화면에 흩어지고, 실제 땅에는 서지 않습니다. 인물, 옷, 선, 질감은 겹친 재료처럼 엮이고, 배경과 부분에는 망점, 실크스크린 입자, 잉크가 살짝 빠진 옛 인쇄 질감이 있습니다. 색은 두 가지에서 네 가지로 제한해 회청색, 미색, 흑회색, 안개색을 바탕으로 주황, 빨강, 코랄, 따뜻한 노랑을 조금만 초점으로 쓰고, 잡지풍의 작은 제목, 주석, 번호를 몇 개 둡니다.",
+    "traits": [
+      "무중력 부유",
+      "개념 패션 일러스트",
+      "디지털 콜라주",
+      "망점",
+      "제한 팔레트"
+    ],
+    "good": [
+      "옷과 자세가 뚜렷한 인물 사진: 스트리트 스냅, 런웨이, 무용수, 긴 코트를 입은 사람",
+      "몇 사람의 관계가 보이는 사진: 친구 무리, 두 사람 사진, 함께 걷는 사람들",
+      "실루엣에 개성이 있어 패션 주인공 형상이 될 수 있는 물건: 우산, 새, 모자"
+    ],
+    "poor": [
+      "모습을 사실 그대로 살려야 하는 사진: 증명사진, 상품 사진",
+      "꽉 찬 장면이나 사실적인 공간 원근을 원하는 경우",
+      "옛 인쇄 질감 없이 밝고 산뜻한 화면, 또는 색이 많은 화면을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "كولاج أزياء عائم بألوان محدودة",
+    "tagline": "يرسم عنصر الصورة رسماً مفاهيمياً للأزياء عديم الوزن، مطبوعاً بالكولاج والنقاط النصفية وألوان قليلة.",
+    "look": "يصبح العنصر رسماً مفاهيمياً للأزياء: تُبرز الحدود والملابس والوضعية والظل، ويمكن إطالة الأجسام أو ضغطها أو تحويرها؛ وحتى العنصر غير البشري يتحول إلى شخصية رئيسية بروح مجلات الأزياء. تطفو شخصية واحدة أو عدة شخصيات أو تتدلى أو تشدها خيوط رفيعة، موزعة على ارتفاعات مختلفة في الصورة بدلاً من الوقوف على أرض حقيقية. تُجمع الشخصيات والملابس والخطوط والملامس كمواد متراكبة، مع نقاط الطباعة النصفية وحبيبات الطباعة الحريرية وملمس طباعة قديمة متآكل قليلاً في الخلفية والتفاصيل. تقتصر الألوان على لونين إلى أربعة: أزرق رمادي وأبيض كريمي ورمادي فحمي ولون ضبابي أساساً، مع قليل من البرتقالي أو الأحمر أو المرجاني أو الأصفر الدافئ نقطةً للتركيز، وبضعة عناوين صغيرة أو ملاحظات أو أرقام بروح المجلات.",
+    "traits": [
+      "طفو بلا وزن",
+      "رسم أزياء مفاهيمي",
+      "كولاج رقمي",
+      "نقاط نصفية",
+      "ألوان محدودة"
+    ],
+    "good": [
+      "صور أشخاص بملابس ووضعيات لافتة: أزياء الشارع، عروض الأزياء، الراقصون، شخص بمعطف طويل",
+      "صور تُظهر علاقة بين بضعة أشخاص: مجموعة أصدقاء، شخصان معاً، أناس يسيرون معاً",
+      "أشياء ذات ظل مميز يمكن أن تصبح شخصية رئيسية بروح الأزياء: مظلة، طائر، قبعة"
+    ],
+    "poor": [
+      "صور تحتاج إلى مطابقة الملامح: صور الهوية، صور المنتجات",
+      "طلب مشهد يملأ الإطار أو منظور مكاني واقعي",
+      "طلب مظهر مشرق منعش بلا ملمس طباعة قديمة، أو ألوان كثيرة"
+    ]
+  }
+}
